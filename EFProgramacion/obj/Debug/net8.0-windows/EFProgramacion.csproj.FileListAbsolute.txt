@@ -1,0 +1,8 @@
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.Form1.resources
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.csproj.GenerateResource.cache
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.AssemblyInfoInputs.cache
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.AssemblyInfo.cs
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Nueva carpeta\EFProgramacion\EFProgramacion\obj\Debug\net8.0-windows\EFProgramacion.sourcelink.json
